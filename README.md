@@ -1,4 +1,8 @@
-django-music
+Django Music
 ============
 
-Store, listen and manage your mp3 collection
+django-music is an application for Django. With django-music app, you can upload all of your MP3 collection to your host and listen them from any device that has a browser. Never loose your library, access your library at home, at work or at mobile.
+
+django-music is in pre pre alpha. Most of features is only an idea.
+
+Contact: @muratcorlu
