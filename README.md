@@ -5,8 +5,8 @@ django-music is an application for Django. With django-music app, you can upload
 
 ## Requirements
 
-* (Django 1.4)[http://djangoproject.org]
-* (eyeD3)[http://eyed3.nicfit.net/]
+* [Django 1.4](http://djangoproject.org)
+* [eyeD3](http://eyed3.nicfit.net/)
 
 django-music is in pre pre alpha. Most of features is only an idea.
 
